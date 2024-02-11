@@ -1,4 +1,7 @@
 {
+    "name": "ndrwbdnz/polylang-google-api-translate",
+    "description": "Simple plugin for translating wordpress posts, pages and woocommerce products using Google Cloud Translate API. The plugin integrates into Polylang plugin, ensuring proper linking of different language versions of posts, pages and products.",
+    "type": "wordpress-plugin",
     "require": {
         "wp-user-manager/wp-optionskit": "^1.0"
     }
